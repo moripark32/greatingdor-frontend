@@ -1,12 +1,12 @@
-# 그리팅몰 클론 프로젝트 소개
+# 그리팅몰 프로젝트 
 
 ---
 
 ## 프로젝트 소개
 
 - 팀명: Greatingdor
-- 설명: 건강식 식단 및 식자재 판매 플랫폼인 그리팅몰(greating mall) 사이트 클론 프로젝트
-- 그리팅몰 original website (https://www.greating.co.kr)
+- 설명: 건강식 식단 및 식자재 판매 플랫폼인 그리팅몰 프로젝트
+
 
 ![](https://images.velog.io/images/elena_park/post/09c32465-1e57-4c15-9ce9-6af103b0010b/%EA%B7%B8%EB%A6%AC%ED%8C%85%EB%AA%B0%20original%20main.png)
 
@@ -70,12 +70,4 @@
 - 상품후기, 상품문의 리스트 드롭다운 구현
   ![상세](https://user-images.githubusercontent.com/60565155/116176110-87a4a700-a74c-11eb-925c-276c5c8b7ebf.gif)
 
-## 각 팀원 블로그
 
-- 박성은 : https://velog.io/@elena_park
-- 박세리 : https://velog.io/@moripark32
-- 이명진 : https://velog.io/@ljo094822
-
-## References
-
-이 프로젝트는 그리팅몰 사이트를 참고하여 학습 목적으로 진행된 프로젝트입니다.
